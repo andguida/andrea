@@ -5,7 +5,9 @@
 #include "simulate.h"
 #include "iostream"
 
+void simulate(){
 
+    return 0
 
 
 }
