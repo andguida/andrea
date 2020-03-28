@@ -4,7 +4,7 @@
 
 
 
-
+using namespace std;
 void simulate(double a, double b, double x, double u, double dt){
     double dx ;
     dx = a*x + b*u;
